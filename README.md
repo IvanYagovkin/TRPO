@@ -1,1 +1,1 @@
-bluetooth_speaker
+Bluetooth Speaker
